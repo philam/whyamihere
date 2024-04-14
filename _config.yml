@@ -1,4 +1,11 @@
+name: Why am I here?
 remote_theme: broccolini/swiss
-theme_color: yellow
+url: https://whyamihere.philipmallis.com
 plugins:
   - jekyll-remote-theme
+
+# Theme customisation
+theme_color: yellow
+
+# Build settings
+markdown: kramdown
